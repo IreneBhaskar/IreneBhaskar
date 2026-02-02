@@ -1,4 +1,4 @@
-<h1>Hello, I'm Irene! <br/><a href="https://www.linkedin.com/in/irene-bhaskar/">A Student of Computer Science</a></h1>
+<h1>Hello, I'm Irene! <br/><a href="https://github.com/IreneBhaskar">A Student of Computer Science</a></h1>
 
 <h2>🔍 Digital Forensics Projects:</h2>
 
