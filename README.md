@@ -1,12 +1,12 @@
 <h1>Hello, I'm Irene! <br/><a href="https://github.com/IreneBhaskar">A Student of Computer Science</a></h1>
 
-<h2>🔍 Digital Forensics Projects:</h2>
+<h2>💻 Projects:</h2>
 
-- <b>Topic</b>
-  - [Project Name](link)
-- <b>Topic</b>
-  - [Project Name](link)
-  - [Project Name](link)
+- <b>Digital Forensics in Linux</b>
+  - [OSINT Practice: Maltego](https://github.com/IreneBhaskar/OSINT-Maltego)
+- <b>Digital Forensics in Windows</b>
+  - [XXX](link)
+  - [XXX](link)
 
 <h2> 📱 Connect with me:</h2>
 
