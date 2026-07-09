@@ -1,6 +1,6 @@
 <h1>Hello There, I'm Irene <br/><a href="https://github.com/IreneBhaskar">A Student of Computer Science</a></h1>
 
-<h2>💻 Projects:</h2>
+<h2>💻 Projects and Labs:</h2>
 
 - <b>Digital Forensics in Linux</b>
   - [OSINT Practice: Maltego](https://github.com/IreneBhaskar/OSINT-Maltego)
