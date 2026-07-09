@@ -6,7 +6,7 @@
   - [OSINT Practice: Maltego](https://github.com/IreneBhaskar/OSINT-Maltego)
 - <b>Security Operations Center (SOC) Skills</b>
   - [Basic Home Lab](link)
-  - [Active Directory](link)
+  - [Active Directory Lab](link)
   - [SOC Automation](link)
   - [Honeypot Setup: T-Pot](link)
 
