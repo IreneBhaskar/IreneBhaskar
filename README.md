@@ -2,9 +2,9 @@
 
 <h2>💻 Projects and Labs:</h2>
 
-- <b>Digital Forensics in Linux</b>
+- <b>Digital Forensics Skills</b>
   - [OSINT Practice: Maltego](https://github.com/IreneBhaskar/OSINT-Maltego)
-- <b>Digital Forensics in Windows</b>
+- <b>Security Operations Center (SOC) Skills</b>
   - [XXX](link)
   - [XXX](link)
 
