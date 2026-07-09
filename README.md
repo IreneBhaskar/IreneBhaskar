@@ -16,7 +16,7 @@
 
 [linkedin]: https://www.linkedin.com/in/irene-bhaskar/
 [tryhackme]: https://tryhackme.com/p/THMIreneB
-[hackthebox]: [https://tryhackme.com/p/THMIreneB](https://profile.hackthebox.com/profile/019f3c02-28bc-732d-be1c-537f33b21682)
+[hackthebox]: https://profile.hackthebox.com/profile/019f3c02-28bc-732d-be1c-537f33b21682
 
 <!--
 **IreneBhaskar/IreneBhaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
