@@ -5,7 +5,7 @@
 - <b>Digital Forensics Skills</b>
   - [OSINT Practice: Maltego](https://github.com/IreneBhaskar/OSINT-Maltego)
 - <b>Security Operations Center (SOC) Skills</b>
-  - [Basic Home Lab](https://github.com/IreneBhaskar/Basic-Home-Lab)
+  - [Basic Home Lab (w/ Sysmon, Splunk)](https://github.com/IreneBhaskar/Basic-Home-Lab)
   - [Active Directory Lab](link)
   - [SOC Automation](link)
   - [Honeypot Setup: T-Pot](link)
