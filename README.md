@@ -5,7 +5,7 @@
 Security Operations Center (SOC) Skills
 - [Honeypot Setup: T-Pot](https://github.com/IreneBhaskar/Honeypot-Setup-T-Pot)
 - [SOC Automation](link)
-- [Active Directory Lab](link)
+- [Active Directory Lab](https://github.com/IreneBhaskar/Active-Directory-Home-Lab-)
 - [Basic Home Lab (w/ Sysmon, Splunk)](https://github.com/IreneBhaskar/Basic-Home-Lab)
 
 Digital Forensics Skills
