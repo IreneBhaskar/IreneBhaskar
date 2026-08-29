@@ -3,7 +3,7 @@
 ## 💻 Projects and Labs:
 
 Security Operations Center (SOC) Skills
-- [Honeypot Setup: T-Pot](link)
+- [Honeypot Setup: T-Pot](https://github.com/IreneBhaskar/Honeypot-Setup-T-Pot)
 - [SOC Automation](link)
 - [Active Directory Lab](link)
 - [Basic Home Lab (w/ Sysmon, Splunk)](https://github.com/IreneBhaskar/Basic-Home-Lab)
