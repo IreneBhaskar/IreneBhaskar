@@ -17,6 +17,6 @@ Digital Forensics Skills
 [<img align="left" alt="IreneBhaskar | HackTheBox" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToG9QOEGwtXIAvuWYxC2Yvyah1H7mUirtjMyabJrl_7MyLC8JqQMgYZd35&s=10" />][hackthebox]
 
 [linkedin]: https://www.linkedin.com/in/irene-bhaskar/
-[tryhackme]: https://tryhackme.com/p/THMIreneB
+[tryhackme]: https://tryhackme.com/p/IreneB
 [hackthebox]: https://profile.hackthebox.com/profile/019f3c02-28bc-732d-be1c-537f33b21682
 
