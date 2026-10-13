@@ -18,5 +18,3 @@ Digital Forensics Skills
 
 [linkedin]: https://www.linkedin.com/in/irene-bhaskar/
 [tryhackme]: https://tryhackme.com/p/IreneB
-[hackthebox]: https://profile.hackthebox.com/profile/019f3c02-28bc-732d-be1c-537f33b21682
-
