@@ -1,4 +1,4 @@
-# Hello There, I'm Irene <br/><a href="https://github.com/IreneBhaskar">A Student of Computer Science</a>
+# Hello There, I'm Irene <br/><a href="https://github.com/IreneBhaskar">A Student of Cyber Security</a>
 
 ## 💻 Projects and Labs:
 
